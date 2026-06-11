@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Kanokphon
 
-<!--
-**VeltrixKernel/VeltrixKernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Programmer**
 
-Here are some ideas to get you started:
+Passionate about building software, exploring system technologies, and continuously improving my engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+* **Languages:** Python, C++, C#
+* **Frameworks:** Django
+* **Tools:** Git, GitHub
+* **Platforms:** Linux, Windows
+* **Interests:** Systems Programming, Virtualization, Software Development
+
+---
+
+## 🎯 Current Focus
+
+* Python Development
+* Django Web Applications
+* System Programming
+* Virtualization Technologies
+* Software Engineering Fundamentals
+
+---
+
+## 📚 Learning Journey
+
+I believe that programming is a continuous learning process. Every project is an opportunity to improve problem-solving skills, software design, and technical knowledge.
+
+---
+
+## 🔥 Goals
+
+* Build real-world software projects
+* Master Python and Django development
+* Strengthen systems programming knowledge
+* Contribute to open-source projects
+* Share knowledge with the developer community
+
+---
+
+> "Code. Learn. Build. Repeat."
