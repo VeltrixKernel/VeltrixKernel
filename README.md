@@ -39,6 +39,7 @@ Passionate about building software, exploring system internals, and continuously
 
 - 🔧 **VeltRixVM** — VMware Workstation Pro Installer (C++ / Win32 API)
 - 📤 **VeltRixVM Drop** — LAN File & Text Transfer Tool (C++ / Win32 API)
+- 🛡️ **VeltRixVM Spoof** — HWID Changer for VM (C++ / Win32 API)
 - 🖥️ **C / C++ Development** — Systems & Windows Internals
 - 🐍 **Python Development** — Automation & Web Apps
 - 🌐 **Django Web Applications**
@@ -49,7 +50,7 @@ Passionate about building software, exploring system internals, and continuously
 
 ## 📌 Featured Projects
 
-### 🖥️ [VeltRixVM Installer](https://github.com/VeltrixKernel/VeltRixVM-Installer)
+### 🔧 [VeltRixVM Installer](https://github.com/VeltrixKernel/VeltRixVM-Installer)
 > Silent installer for VMware Workstation Pro 16.1.2 with Anti-Debug Protection & Dark Theme UI
 
 - **Tech:** C++, Win32 API, Visual Studio 2022
@@ -62,6 +63,14 @@ Passionate about building software, exploring system internals, and continuously
 - **Tech:** C++, Win32 API, Winsock2, Visual Studio 2022
 - **Features:** File Transfer, Folder Transfer, Text Transfer, Clipboard Sync, System Tray, Anti-Crack, History
 - **Status:** 🚧 In Development
+
+### 🛡️ [VeltRixVM Spoof](https://github.com/VeltrixKernel/veltrixvm-spoof)
+> HWID Changer for Windows and Virtual Machine with Profile-based Randomization
+
+- **Tech:** C++, Win32 API, Visual Studio 2022
+- **Features:** 12 Real Values Changed (Machine GUID, HWID, MAC, Computer Name, Product Key, Volume Serial, Timezone, DNS), Profile Pool 41 Brands, Device Name Pool 22 Brands, DNS Pool 6 Providers, Silent Restart, Dark Mode + Green Neon UI
+- **Status:** ✅ Production Ready
+- **Visibility:** 🔒 Private
 
 ---
 
