@@ -83,9 +83,21 @@ I believe that programming is a **continuous learning process**. Every project i
 
 ## 📊 GitHub Stats
 
-![Kanokphon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeltrixKernel&show_icons=true&theme=dark)
+**Followers & Stars**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VeltrixKernel&layout=compact&theme=dark)
+![Followers](https://img.shields.io/github/followers/VeltrixKernel?style=for-the-badge&logo=github&color=blue)
+![Stars](https://img.shields.io/github/stars/VeltrixKernel/VeltRixVM-Installer?style=for-the-badge&logo=github&color=yellow)
+![Forks](https://img.shields.io/github/forks/VeltrixKernel/VeltRixVM-Installer?style=for-the-badge&logo=github&color=green)
+
+**Statistics**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeltrixKernel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VeltrixKernel&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+
+**Streak**
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VeltrixKernel&theme=tokyonight&hide_border=true)
 
 ---
 
