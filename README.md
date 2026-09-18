@@ -1,104 +1,109 @@
-# 👋 Hi, I'm Kanokphon
+# 👋 สวัสดีครับ ผม Kanokphon
 
 💻 **Software Engineer** • 🛡️ **Systems & Virtualization Enthusiast**
+🇹🇭 **นักพัฒนาซอฟต์แวร์** • **ผู้สนใจระบบและเวอร์ช่วลไลเซชัน**
 
 Passionate about building software, exploring system internals, and continuously improving my engineering skills.
 
+หลงใหลในการสร้างซอฟต์แวร์ สำรวจระบบภายใน และพัฒนาทักษะวิศวกรรมอย่างต่อเนื่อง
+
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack | เทคโนโลยีที่ใช้
 
-**Languages**
+**Languages | ภาษา**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks & Tools | เฟรมเวิร์กและเครื่องมือ**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Win32 API](https://img.shields.io/badge/Win32%20API-0078D6?style=flat&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
-**Platforms**
+**Platforms | แพลตฟอร์ม**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Interests**
-- 🖥️ Systems Programming
-- ⚙️ Windows Internals (C / C++)
-- 🧪 Virtualization & VMware
-- 🔒 Cybersecurity & Anti-Debug
-- 🌐 Web Development (Django)
-- 🐍 Python Automation
+**Interests | ความสนใจ**
+- 🖥️ Systems Programming (การเขียนโปรแกรมระบบ)
+- ⚙️ Windows Internals (ระบบภายในของ Windows) — C / C++
+- 🧪 Virtualization & VMware (เวอร์ช่วลไลเซชันและ VMware)
+- 🔒 Cybersecurity & Anti-Debug (ความปลอดภัยไซเบอร์และการป้องกันดีบัก)
+- 🌐 Web Development (การพัฒนาเว็บ) — Django
+- 🐍 Python Automation (ระบบอัตโนมัติด้วย Python)
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus | กำลังโฟกัส
 
-- 🔧 **VeltRixVM** — VMware Workstation Pro Installer (C++ / Win32 API)
-- 📤 **VeltRixVM Drop** — LAN File & Text Transfer Tool (C++ / Win32 API)
-- 🛡️ **VeltRixVM Spoof** — HWID Changer for VM (C++ / Win32 API)
-- 🖥️ **C / C++ Development** — Systems & Windows Internals
-- 🐍 **Python Development** — Automation & Web Apps
-- 🌐 **Django Web Applications**
+- 🔧 **VeltRixVM** — โปรแกรมติดตั้ง VMware Workstation Pro (C++ / Win32 API)
+- 📤 **VeltRixVM Drop** — เครื่องมือโอนไฟล์และข้อความผ่าน LAN (C++ / Win32 API)
+- 🛡️ **VeltRixVM Spoof** — โปรแกรมเปลี่ยน HWID สำหรับ VM (C++ / Win32 API)
+- 🖥️ **C / C++ Development** — การพัฒนาโปรแกรมระบบและ Windows Internals
+- 🐍 **Python Development** — ระบบอัตโนมัติและเว็บแอป
+- 🌐 **Django Web Applications** — เว็บแอปพลิเคชัน
 - 🧪 **Virtualization Technologies** — VMware, Hyper-V
-- 📚 **Software Engineering Fundamentals**
+- 📚 **Software Engineering Fundamentals** — พื้นฐานวิศวกรรมซอฟต์แวร์
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects | โปรเจกต์เด่น
 
 ### 🔧 [VeltRixVM Installer](https://github.com/VeltrixKernel/VeltRixVM-Installer)
-> Silent installer for VMware Workstation Pro 16.1.2 with Anti-Debug Protection & Dark Theme UI
+> โปรแกรมติดตั้ง VMware Workstation Pro 16.1.2 แบบเงียบ พร้อมระบบ Anti-Debug และ UI ธีมมืด
 
-- **Tech:** C++, Win32 API, Visual Studio 2022
-- **Features:** Silent Install, Auto Patch, Anti-Crack, Auto Power On VM
-- **Status:** ✅ Production Ready
+- **เทคโนโลยี:** C++, Win32 API, Visual Studio 2022
+- **ฟีเจอร์:** ติดตั้งเงียบ, Auto Patch, Anti-Crack, เปิด VM อัตโนมัติ
+- **สถานะ:** ✅ พร้อมใช้งาน
 
 ### 📤 [VeltRixVM Drop](https://github.com/VeltrixKernel/VeltRixVM-Drop)
-> Lightweight LAN file & text transfer tool with Clipboard Sync and System Tray
+> เครื่องมือโอนไฟล์และข้อความผ่าน LAN น้ำหนักเบา พร้อม Clipboard Sync และ System Tray
 
-- **Tech:** C++, Win32 API, Winsock2, Visual Studio 2022
-- **Features:** File Transfer, Folder Transfer, Text Transfer, Clipboard Sync, System Tray, Anti-Crack, History
-- **Status:** 🚧 In Development
+- **เทคโนโลยี:** C++, Win32 API, Winsock2, Visual Studio 2022
+- **ฟีเจอร์:** โอนไฟล์, โอนโฟลเดอร์, โอนข้อความ, Clipboard Sync, System Tray, Anti-Crack, History
+- **สถานะ:** 🚧 กำลังพัฒนา
 
 ### 🛡️ [VeltRixVM Spoof](https://github.com/VeltrixKernel/veltrixvm-spoof)
-> HWID Changer for Windows and Virtual Machine with Profile-based Randomization
+> โปรแกรมเปลี่ยน HWID สำหรับ Windows และ Virtual Machine พร้อมระบบ Random ตาม Profile
 
-- **Tech:** C++, Win32 API, Visual Studio 2022
-- **Features:** 12 Real Values Changed (Machine GUID, HWID, MAC, Computer Name, Product Key, Volume Serial, Timezone, DNS), Profile Pool 41 Brands, Device Name Pool 22 Brands, DNS Pool 6 Providers, Silent Restart, Dark Mode + Green Neon UI
-- **Status:** ✅ Production Ready
-- **Visibility:** 🔒 Private
+- **เทคโนโลยี:** C++, Win32 API, Visual Studio 2022
+- **ฟีเจอร์:** เปลี่ยน 12 ค่าจริง (Machine GUID, HWID, MAC, Computer Name, Product Key, Volume Serial, Timezone, DNS), Pool Profile 41 แบรนด์, Pool Device Name 22 แบรนด์, Pool DNS 6 Providers, Silent Restart, UI ธีม Dark Mode + Green Neon
+- **สถานะ:** ✅ พร้อมใช้งาน
+- **การเข้าถึง:** 🔒 Private
 
 ---
 
-## 📚 Learning Journey
+## 📚 Learning Journey | เส้นทางการเรียนรู้
 
 I believe that programming is a **continuous learning process**. Every project is an opportunity to improve:
 
-- 🧠 Problem-Solving Skills
-- 🏗️ Software Design
-- 📖 Technical Knowledge
-- 🔬 Deep Understanding of Systems
-- 💡 Writing Clean & Efficient C / C++ Code
+ผมเชื่อว่าการเขียนโปรแกรมเป็น **กระบวนการเรียนรู้ที่ต่อเนื่อง** ทุกโปรเจกต์คือโอกาสในการพัฒนา:
+
+- 🧠 Problem-Solving Skills (ทักษะการแก้ปัญหา)
+- 🏗️ Software Design (การออกแบบซอฟต์แวร์)
+- 📖 Technical Knowledge (ความรู้ทางเทคนิค)
+- 🔬 Deep Understanding of Systems (ความเข้าใจระบบอย่างลึกซึ้ง)
+- 💡 Writing Clean & Efficient C / C++ Code (เขียนโค้ด C/C++ ที่สะอาดและมีประสิทธิภาพ)
 
 ---
 
-## 🔥 Goals
+## 🔥 Goals | เป้าหมาย
 
-- ✅ Build real-world software projects
-- ✅ Master **C / C++** for Systems Programming
-- ✅ Master Python and Django development
-- ✅ Strengthen systems programming knowledge
-- ✅ Contribute to open-source projects
-- ✅ Share knowledge with the developer community
-- ✅ Build tools for Virtualization & Cybersecurity
+- ✅ Build real-world software projects (สร้างโปรเจกต์ซอฟต์แวร์จริง)
+- ✅ Master **C / C++** for Systems Programming (เชี่ยวชาญ C/C++ สำหรับการเขียนโปรแกรมระบบ)
+- ✅ Master Python and Django development (เชี่ยวชาญ Python และ Django)
+- ✅ Strengthen systems programming knowledge (เสริมความรู้การเขียนโปรแกรมระบบ)
+- ✅ Contribute to open-source projects (มีส่วนร่วมในโปรเจกต์โอเพนซอร์ส)
+- ✅ Share knowledge with the developer community (แบ่งปันความรู้กับชุมชนนักพัฒนา)
+- ✅ Build tools for Virtualization & Cybersecurity (สร้างเครื่องมือสำหรับเวอร์ช่วลไลเซชันและความปลอดภัยไซเบอร์)
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me | ช่องทางติดต่อ
 
 - 💬 **Discord:** [Veltrix Kernel](https://discord.gg/jnA6Wv7b2Q)
 - ✈️ **Telegram:** [@veltrixkernel](https://t.me/+aW82z4_qJRZlZDI1)
@@ -108,9 +113,10 @@ I believe that programming is a **continuous learning process**. Every project i
 
 ---
 
-## 💡 Quote
+## 💡 Quote | คำคม
 
 > **"Code. Learn. Build. Repeat."**
+> **"เขียนโค้ด เรียนรู้ สร้างสรรค์ ทำซ้ำ"**
 >
 > *— Veltrix Kernel*
 
@@ -119,6 +125,7 @@ I believe that programming is a **continuous learning process**. Every project i
 <div align="center">
 
 ### ⭐ If you like my work, don't forget to star my repositories!
+### ⭐ ถ้าชอบผลงานของผม อย่าลืมกด Star ให้ repositories ด้วยนะครับ!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VeltrixKernel&style=for-the-badge&color=blue)
 
