@@ -38,6 +38,7 @@ Passionate about building software, exploring system internals, and continuously
 ## 🎯 Current Focus
 
 - 🔧 **VeltRixVM** — VMware Workstation Pro Installer (C++ / Win32 API)
+- 📤 **VeltRixVM Drop** — LAN File & Text Transfer Tool (C++ / Win32 API)
 - 🖥️ **C / C++ Development** — Systems & Windows Internals
 - 🐍 **Python Development** — Automation & Web Apps
 - 🌐 **Django Web Applications**
@@ -54,6 +55,13 @@ Passionate about building software, exploring system internals, and continuously
 - **Tech:** C++, Win32 API, Visual Studio 2022
 - **Features:** Silent Install, Auto Patch, Anti-Crack, Auto Power On VM
 - **Status:** ✅ Production Ready
+
+### 📤 [VeltRixVM Drop](https://github.com/VeltrixKernel/VeltRixVM-Drop)
+> Lightweight LAN file & text transfer tool with Clipboard Sync and System Tray
+
+- **Tech:** C++, Win32 API, Winsock2, Visual Studio 2022
+- **Features:** File Transfer, Folder Transfer, Text Transfer, Clipboard Sync, System Tray, Anti-Crack, History
+- **Status:** 🚧 In Development
 
 ---
 
@@ -83,8 +91,35 @@ I believe that programming is a **continuous learning process**. Every project i
 
 ## 📊 GitHub Stats
 
-![Followers](https://img.shields.io/github/followers/VeltrixKernel?style=for-the-badge&logo=github&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=VeltrixKernel&style=for-the-badge&color=blue)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeltrixKernel&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VeltrixKernel&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VeltrixKernel&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=VeltrixKernel&theme=darkhub&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VeltrixKernel&theme=react-dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -94,6 +129,7 @@ I believe that programming is a **continuous learning process**. Every project i
 - ✈️ **Telegram:** [@veltrixkernel](https://t.me/+aW82z4_qJRZlZDI1)
 - ▶️ **YouTube:** [@veltrixkernel](https://www.youtube.com/@veltrixkernel)
 - 📧 **Email:** louis.dev2025@gmail.com
+- 🐙 **GitHub:** [@VeltrixKernel](https://github.com/VeltrixKernel)
 
 ---
 
@@ -105,4 +141,10 @@ I believe that programming is a **continuous learning process**. Every project i
 
 ---
 
-⭐ **If you like my work, don't forget to star my repositories!**
+<div align="center">
+
+### ⭐ If you like my work, don't forget to star my repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=VeltrixKernel&style=for-the-badge&color=blue)
+
+</div>
