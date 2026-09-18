@@ -89,40 +89,6 @@ I believe that programming is a **continuous learning process**. Every project i
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeltrixKernel&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VeltrixKernel&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VeltrixKernel&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=VeltrixKernel&theme=darkhub&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VeltrixKernel&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 - 💬 **Discord:** [Veltrix Kernel](https://discord.gg/jnA6Wv7b2Q)
