@@ -9,12 +9,14 @@ Passionate about building software, exploring system internals, and continuously
 ## 🚀 Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frameworks & Tools**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Win32 API](https://img.shields.io/badge/Win32%20API-0078D6?style=flat&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
@@ -25,19 +27,20 @@ Passionate about building software, exploring system internals, and continuously
 
 **Interests**
 - 🖥️ Systems Programming
+- ⚙️ Windows Internals (C / C++)
 - 🧪 Virtualization & VMware
 - 🔒 Cybersecurity & Anti-Debug
 - 🌐 Web Development (Django)
-- ⚙️ Windows Internals
+- 🐍 Python Automation
 
 ---
 
 ## 🎯 Current Focus
 
 - 🔧 **VeltRixVM** — VMware Workstation Pro Installer (C++ / Win32 API)
+- 🖥️ **C / C++ Development** — Systems & Windows Internals
 - 🐍 **Python Development** — Automation & Web Apps
 - 🌐 **Django Web Applications**
-- 🖥️ **System Programming** — Windows Internals
 - 🧪 **Virtualization Technologies** — VMware, Hyper-V
 - 📚 **Software Engineering Fundamentals**
 
@@ -62,12 +65,14 @@ I believe that programming is a **continuous learning process**. Every project i
 - 🏗️ Software Design
 - 📖 Technical Knowledge
 - 🔬 Deep Understanding of Systems
+- 💡 Writing Clean & Efficient C / C++ Code
 
 ---
 
 ## 🔥 Goals
 
 - ✅ Build real-world software projects
+- ✅ Master **C / C++** for Systems Programming
 - ✅ Master Python and Django development
 - ✅ Strengthen systems programming knowledge
 - ✅ Contribute to open-source projects
