@@ -86,8 +86,6 @@ I believe that programming is a **continuous learning process**. Every project i
 ![Followers](https://img.shields.io/github/followers/VeltrixKernel?style=for-the-badge&logo=github&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=VeltrixKernel&style=for-the-badge&color=blue)
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeltrixKernel&theme=tokyonight)](https://github.com/VeltrixKernel)
-
 ---
 
 ## 🔗 Connect With Me
