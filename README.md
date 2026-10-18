@@ -41,7 +41,7 @@
 ## 🎯 Current Focus | กำลังโฟกัส
 
 - 🛡️ **VeltRixVM Spoof** — โปรแกรมเปลี่ยน HWID สำหรับ Virtual Machine (C++ / Win32 API)
-- 🔧 **VeltRixVM Toolset** — ชุดเครื่องมือสำหรับจัดการ Virtual Machine (C++ / Win32 API)
+- 🔧 **VeltRixVM Drop** — โปรแกรมส่งไฟล์และข้อความผ่านเครือข่าย LAN (C++ / Win32 API)
 - 🖥️ **C / C++ Development** — การพัฒนาโปรแกรมระบบและ Windows Internals
 - 🐍 **Python Development** — ระบบอัตโนมัติและเว็บแอป
 - 🌐 **Django Web Applications** — เว็บแอปพลิเคชัน
@@ -60,11 +60,11 @@
 - **สถานะ:** ✅ พร้อมใช้งาน (Private)
 - **การเข้าถึง:** 🔒 Private Repository
 
-### 🔧 VeltRixVM Toolset
-> ชุดเครื่องมือสำหรับจัดการและปรับแต่ง Virtual Machine (VMware) พัฒนาด้วย C++ และ Win32 API
+### 🔧 VeltRixVM Drop
+> โปรแกรมส่งไฟล์และข้อความผ่านเครือข่าย LAN พัฒนาด้วย C++ และ Win32 API
 
 - **เทคโนโลยี:** C++, Win32 API, Visual Studio 2022
-- **รายละเอียด:** เครื่องมือจัดการ VM, ระบบติดตั้ง, ระบบโอนไฟล์ผ่าน LAN
+- **รายละเอียด:** โปรแกรมส่งไฟล์/โฟลเดอร์/ข้อความผ่าน LAN, Clipboard Sync, ระบบ Anti-Crack
 - **สถานะ:** ✅ พร้อมใช้งาน (Private)
 - **การเข้าถึง:** 🔒 Private Repository
 
