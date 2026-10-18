@@ -3,9 +3,9 @@
 💻 **Software Engineer** • 🛡️ **Systems & Virtualization Enthusiast**
 🇹🇭 **นักพัฒนาซอฟต์แวร์** • **ผู้สนใจระบบและเวอร์ช่วลไลเซชัน**
 
-Passionate about building software, exploring system internals, and continuously improving my engineering skills.
-
-หลงใหลในการสร้างซอฟต์แวร์ สำรวจระบบภายใน และพัฒนาทักษะวิศวกรรมอย่างต่อเนื่อง
+> Passionate about building software, exploring system internals, and continuously improving my engineering skills.
+>
+> หลงใหลในการสร้างซอฟต์แวร์ สำรวจระบบภายใน และพัฒนาทักษะวิศวกรรมอย่างต่อเนื่อง
 
 ---
 
@@ -40,9 +40,8 @@ Passionate about building software, exploring system internals, and continuously
 
 ## 🎯 Current Focus | กำลังโฟกัส
 
-- 🔧 **VeltRixVM** — โปรแกรมติดตั้ง VMware Workstation Pro (C++ / Win32 API)
-- 📤 **VeltRixVM Drop** — เครื่องมือโอนไฟล์และข้อความผ่าน LAN (C++ / Win32 API)
-- 🛡️ **VeltRixVM Spoof** — โปรแกรมเปลี่ยน HWID สำหรับ VM (C++ / Win32 API)
+- 🔧 **VeltRixVM Toolset** — ชุดเครื่องมือสำหรับจัดการ Virtual Machine (C++ / Win32 API)
+- 🛡️ **Security & System Utilities** — การพัฒนาเครื่องมือด้านความปลอดภัยและระบบ
 - 🖥️ **C / C++ Development** — การพัฒนาโปรแกรมระบบและ Windows Internals
 - 🐍 **Python Development** — ระบบอัตโนมัติและเว็บแอป
 - 🌐 **Django Web Applications** — เว็บแอปพลิเคชัน
@@ -53,27 +52,19 @@ Passionate about building software, exploring system internals, and continuously
 
 ## 📌 Featured Projects | โปรเจกต์เด่น
 
-### 🔧 [VeltRixVM Installer](https://github.com/VeltrixKernel/VeltRixVM-Installer)
-> โปรแกรมติดตั้ง VMware Workstation Pro 16.1.2 แบบเงียบ พร้อมระบบ Anti-Debug และ UI ธีมมืด
+### 🔧 VeltRixVM Toolset
+> ชุดเครื่องมือสำหรับจัดการและปรับแต่ง Virtual Machine (VMware) พัฒนาด้วย C++ และ Win32 API
 
 - **เทคโนโลยี:** C++, Win32 API, Visual Studio 2022
-- **ฟีเจอร์:** ติดตั้งเงียบ, Auto Patch, Anti-Crack, เปิด VM อัตโนมัติ
-- **สถานะ:** ✅ พร้อมใช้งาน
+- **ฟีเจอร์:** เครื่องมือจัดการ VM, ระบบติดตั้ง, ระบบโอนไฟล์ผ่าน LAN
+- **สถานะ:** ✅ พร้อมใช้งาน (Private)
 
-### 📤 [VeltRixVM Drop](https://github.com/VeltrixKernel/VeltRixVM-Drop)
-> เครื่องมือโอนไฟล์และข้อความผ่าน LAN น้ำหนักเบา พร้อม Clipboard Sync และ System Tray
-
-- **เทคโนโลยี:** C++, Win32 API, Winsock2, Visual Studio 2022
-- **ฟีเจอร์:** โอนไฟล์, โอนโฟลเดอร์, โอนข้อความ, Clipboard Sync, System Tray, Anti-Crack, History
-- **สถานะ:** 🚧 กำลังพัฒนา
-
-### 🛡️ [VeltRixVM Spoof](https://github.com/VeltrixKernel/veltrixvm-spoof)
-> โปรแกรมเปลี่ยน HWID สำหรับ Windows และ Virtual Machine พร้อมระบบ Random ตาม Profile
+### 🛡️ System & Security Utilities
+> เครื่องมือสำหรับจัดการระบบและความปลอดภัย พร้อมระบบป้องกันการ Reverse Engineering
 
 - **เทคโนโลยี:** C++, Win32 API, Visual Studio 2022
-- **ฟีเจอร์:** เปลี่ยน 12 ค่าจริง (Machine GUID, HWID, MAC, Computer Name, Product Key, Volume Serial, Timezone, DNS), Pool Profile 41 แบรนด์, Pool Device Name 22 แบรนด์, Pool DNS 6 Providers, Silent Restart, UI ธีม Dark Mode + Green Neon
-- **สถานะ:** ✅ พร้อมใช้งาน
-- **การเข้าถึง:** 🔒 Private
+- **ฟีเจอร์:** ระบบป้องกันการ Debug, การจัดการระบบ, UI ธีมมืด
+- **สถานะ:** ✅ พร้อมใช้งาน (Private)
 
 ---
 
