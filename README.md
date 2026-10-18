@@ -118,6 +118,4 @@ I believe that programming is a **continuous learning process**. Every project i
 ### ⭐ If you like my work, don't forget to star my repositories!
 ### ⭐ ถ้าชอบผลงานของผม อย่าลืมกด Star ให้ repositories ด้วยนะครับ!
 
-![Profile Views](https://komarev.com/ghpvc/?username=VeltrixKernel&style=for-the-badge&color=blue)
-
 </div>
