@@ -1,4 +1,4 @@
-# 👋 สวัสดีครับ ผม Kanokphon
+# 👋 สวัสดีครับ ผม Kanokphon Salawat
 
 💻 **Software Engineer** • 🛡️ **Systems & Virtualization Enthusiast**
 🇹🇭 **นักพัฒนาซอฟต์แวร์** • **ผู้สนใจระบบและเวอร์ช่วลไลเซชัน**
@@ -40,8 +40,8 @@
 
 ## 🎯 Current Focus | กำลังโฟกัส
 
+- 🛡️ **VeltRixVM Spoof** — โปรแกรมเปลี่ยน HWID สำหรับ Virtual Machine (C++ / Win32 API)
 - 🔧 **VeltRixVM Toolset** — ชุดเครื่องมือสำหรับจัดการ Virtual Machine (C++ / Win32 API)
-- 🛡️ **Security & System Utilities** — การพัฒนาเครื่องมือด้านความปลอดภัยและระบบ
 - 🖥️ **C / C++ Development** — การพัฒนาโปรแกรมระบบและ Windows Internals
 - 🐍 **Python Development** — ระบบอัตโนมัติและเว็บแอป
 - 🌐 **Django Web Applications** — เว็บแอปพลิเคชัน
@@ -52,19 +52,21 @@
 
 ## 📌 Featured Projects | โปรเจกต์เด่น
 
+### 🛡️ VeltRixVM Spoof
+> โปรแกรมเปลี่ยน HWID สำหรับ Virtual Machine (VM) พัฒนาด้วย C++ และ Win32 API
+
+- **เทคโนโลยี:** C++, Win32 API, Visual Studio 2022
+- **ฟีเจอร์:** เปลี่ยนค่า HWID 24 ค่า (Machine GUID, HWID, MAC, Computer Name, Product Key, Volume Serial, Timezone, DNS), Random ตาม Profile แบรนด์จริง, Silent Restart, UI ธีม Dark Mode + Green Neon
+- **สถานะ:** ✅ พร้อมใช้งาน
+- **การเข้าถึง:** 🔒 Private Repository
+
 ### 🔧 VeltRixVM Toolset
 > ชุดเครื่องมือสำหรับจัดการและปรับแต่ง Virtual Machine (VMware) พัฒนาด้วย C++ และ Win32 API
 
 - **เทคโนโลยี:** C++, Win32 API, Visual Studio 2022
 - **ฟีเจอร์:** เครื่องมือจัดการ VM, ระบบติดตั้ง, ระบบโอนไฟล์ผ่าน LAN
-- **สถานะ:** ✅ พร้อมใช้งาน (Private)
-
-### 🛡️ System & Security Utilities
-> เครื่องมือสำหรับจัดการระบบและความปลอดภัย พร้อมระบบป้องกันการ Reverse Engineering
-
-- **เทคโนโลยี:** C++, Win32 API, Visual Studio 2022
-- **ฟีเจอร์:** ระบบป้องกันการ Debug, การจัดการระบบ, UI ธีมมืด
-- **สถานะ:** ✅ พร้อมใช้งาน (Private)
+- **สถานะ:** 🚧 กำลังพัฒนา
+- **การเข้าถึง:** 🔒 Private Repository
 
 ---
 
