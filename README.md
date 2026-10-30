@@ -67,6 +67,8 @@
 - **รายละเอียด:** โปรแกรมส่งไฟล์/โฟลเดอร์/ข้อความผ่าน LAN, Clipboard Sync, ระบบ Anti-Crack
 - **สถานะ:** ✅ พร้อมใช้งาน (Private)
 - **การเข้าถึง:** 🔒 Private Repository
+- **เวอร์ชันล่าสุด:** ![Version](https://img.shields.io/badge/version-1.0.0.0-blue)
+- **ดาวน์โหลด:** [Download v1.0.0.0](https://github.com/VeltrixKernel/VeltRixVM-Drop/releases/tag/v1.0.0.0)
 
 ---
 
