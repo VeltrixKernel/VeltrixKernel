@@ -57,7 +57,7 @@
 
 - **เทคโนโลยี:** C++, Win32 API, Visual Studio 2022
 - **รายละเอียด:** เครื่องมือสำหรับจัดการ Hardware ID (HWID) และระบบความปลอดภัย
-- **สถานะ:** ✅ พร้อมใช้งาน (Private)
+- **สถานะ:** ✅ พร้อมใช้งาน
 - **การเข้าถึง:** 🔒 Private Repository
 
 ### 🔧 VeltRixVM Drop
@@ -65,10 +65,8 @@
 
 - **เทคโนโลยี:** C++, Win32 API, Visual Studio 2022
 - **รายละเอียด:** โปรแกรมส่งไฟล์/โฟลเดอร์/ข้อความผ่าน LAN, Clipboard Sync, ระบบ Anti-Crack
-- **สถานะ:** ✅ พร้อมใช้งาน (Private)
+- **สถานะ:** ✅ พร้อมใช้งาน
 - **การเข้าถึง:** 🔒 Private Repository
-- **เวอร์ชันล่าสุด:** ![Version](https://img.shields.io/badge/version-1.0.0.0-blue)
-- **ดาวน์โหลด:** [Download v1.0.0.0](https://github.com/VeltrixKernel/VeltRixVM-Drop/releases/tag/v1.0.0.0)
 
 ---
 
